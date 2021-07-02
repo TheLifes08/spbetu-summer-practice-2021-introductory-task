@@ -11,12 +11,8 @@
 	
 Пример использования программы:
 
-> java -jar lab3.jar (Можно при помощи run.bat)
-
-> java -jar lab3.jar -f (Можно при помощи from_file.bat)
-
-> java -jar lab3.jar -f -s (Можно при помощи from_file_silent.bat)
-
-> java -jar lab3.jar -t (Можно при помощи test.bat)
-
-> java -jar lab3.jar -t -s (Можно при помощи test_silent.bat)
+	java -jar lab3.jar (Можно при помощи run.bat)
+	java -jar lab3.jar -f (Можно при помощи from_file.bat)
+	java -jar lab3.jar -f -s (Можно при помощи from_file_silent.bat)
+	java -jar lab3.jar -t (Можно при помощи test.bat)
+	java -jar lab3.jar -t -s (Можно при помощи test_silent.bat)
